@@ -10,7 +10,6 @@ body{
     color: white;
     background: url('../images/bg2.jpg') no-repeat fixed;
     background-size: cover;
-/*background-image: url("/Users/tashadezelsky/Documents/github/project3/bg1.png");*/
 }
 
 .container {
@@ -62,7 +61,6 @@ a:active {
     font-size: 3rem;
     text-align: center;
     height: auto;
-    /* justify-content: center; */
     align-self: center;
     line-height: 4rem;
     letter-spacing: -3px;
@@ -81,20 +79,6 @@ h2:hover {
 h2:active {
     color: sandybrown;
 }
-
-/*.footer {
-    border: 2px solid green;
-    position: fixed;
-    display: grid;
-    width: 40%;
-    grid-template-columns: repeat(3, 1fr);
-    align-items:flex-end;
-    text-align: center;
-    list-style-type: none;
-    padding: 2rem 1rem 0 0;
-    font-size: 1.15em;
-    z-index: 2;
-}*/
 
 .cursor{
 position: absolute;
@@ -176,7 +160,6 @@ a:active {
     /*border: 2px solid red;*/
     font-size: 2rem;
     text-align: center;
-    /* justify-content: center; */
     align-self: center;
     line-height: 3rem;
     letter-spacing: -3px;

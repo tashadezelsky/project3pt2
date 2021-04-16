@@ -40,7 +40,6 @@ body {
     width: 100%;
     min-height: 100vh;
 
-    /*opacity: 30%;*/
 }
 
 .bgimg-small img {
@@ -210,7 +209,6 @@ h1{
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
-   /* max-width: 100%; */
     min-width: 100%;
     max-width: 100%;
     min-height: 100vh;
@@ -232,7 +230,6 @@ h1{
    /* border: 2px solid orange;*/
     display: flex;
     flex-wrap: wrap;
-   /* max-width: 110%;*/
     max-height: 100vh;
     min-height: 100vh;
     min-width: 70%;
@@ -312,18 +309,6 @@ h1{
     .cursor1 {
         display: none;
         position: fixed;
-        /*display: flex;
-        flex-wrap: wrap;
-        width: 49rem;
-        height: 49rem;
-        border-radius: 50%;
-        background: url('https://media3.giphy.com/media/xTiTnrfZfRPJ520yly/source.gif') no-repeat, fixed;
-        background-size: cover;
-        opacity: 0%;
-        z-index: -1;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);*/
     }
     
     
